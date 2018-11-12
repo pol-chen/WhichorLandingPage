@@ -59,3 +59,23 @@ header, footer {
   color: #FFF;
   background: #A56A63;
 }
+
+.terms {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 15px;
+  font-family: sans-serif;
+  text-align: left;
+}
+.terms h1,
+.terms h2,
+.terms h3,
+.terms h4,
+.terms p,
+.terms li {
+  margin-bottom: 12px;
+}
+.terms h2 {
+  margin-top: 36px;
+  font-weight: bold;
+}
